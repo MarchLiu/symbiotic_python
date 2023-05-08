@@ -1,0 +1,6 @@
+comment = 'symbiotic_python:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/symbiotic_python'
+relocatable = false
+superuser = true
+schema = symbiotic
